@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B0b1n-12
-- 👀 I’m interested in ...Quantum computing
+- 👀 I’m interested in Quantum computing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
