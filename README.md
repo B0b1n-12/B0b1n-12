@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B0b1n-12
 - 👀 I’m interested in Quantum computing
 - 🌱 I’m currently learning C/C++, Rust, and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on paper for my head xd.
 - 📫 How to reach me X (https://x.com/JanLiebich)
 
 <!---
