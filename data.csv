@@ -1,0 +1,9 @@
+Operace,Bash,Fish,CMD
+"Výpis textu","echo ""Ahoj""","echo ""Ahoj""","echo Hello"
+"Proměnná","name=""Echo""","set name Echo","set name=Echo"
+"Podmínka (if)","if [ ""$name"" = ""Echo"" ]; then echo OK; fi","if test $name = Echo; echo OK; end","if ""%name%""==""Echo"" echo OK"
+"Cykly (for)","for i in {1..3}; do echo $i; done","for i in (seq 1 3); echo $i; end","for /L %i in (1,1,3) do echo %i"
+"Komentář","# komentář","# komentář","rem komentář"
+"Spuštění skriptu","bash skript.sh","fish skript.fish","call skript.bat"
+"Zmena adresáře","cd slozka","cd slozka","cd slozka"
+"Seznam souborů","ls","ls","dir"
